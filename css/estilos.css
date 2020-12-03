@@ -36,3 +36,11 @@ header a:hover{
 .active{
     color: orange;
 }
+
+footer{
+    text-align: center;
+    width: 100%;
+    padding: 30px 50px;
+    background: #000;
+    color: #fff;
+}
