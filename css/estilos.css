@@ -36,3 +36,22 @@ header a:hover{
 .active{
     color: orange;
 }
+
+section{
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 2px solid #f2f2f2;
+    padding: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .01);
+}
+
+section h2 {
+    margin-bottom: 10px;
+    color: navy;
+}
+
+section p{
+    color: #000500;
+    margin-bottom: 30px;
+}
