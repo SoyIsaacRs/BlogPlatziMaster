@@ -56,6 +56,19 @@ section p{
     margin-bottom: 30px;
 }
 
+main .imagen{
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+main .imagen img{
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+
 footer{
     text-align: center;
     width: 100%;
