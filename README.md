@@ -6,6 +6,8 @@ Soy Isaac Rompiendola desde el master
 Master 1
 Master 2
 
+## En este curso hemos visto
+*Comando basicos de git.
 
 
 
